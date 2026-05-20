@@ -1,1 +1,6 @@
 Любой текст
+
+PS C:\Study\git-aci-practice-eldan> git commit -m "Add temporary file"
+[master 7785704] Add temporary file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 temp.txt
